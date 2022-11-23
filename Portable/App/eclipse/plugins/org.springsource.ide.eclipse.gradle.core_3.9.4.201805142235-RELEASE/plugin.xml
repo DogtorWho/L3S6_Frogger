@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension-point id="projectConfigurators" name="Project Configurators" schema="schema/projectConfigurators.exsd"/>
+   <extension
+         point="org.eclipse.jdt.core.classpathContainerInitializer">
+      <classpathContainerInitializer
+            class="org.springsource.ide.eclipse.gradle.core.classpathcontainer.GradleClasspathContainerInitializer"
+            id="org.springsource.ide.eclipse.gradle.classpathcontainer">
+      </classpathContainerInitializer>
+   </extension>
+   
+   <extension
+         id="org.springsource.ide.eclipse.gradle.core.nature"
+         name="Gradle (STS) Nature"
+         point="org.eclipse.core.resources.natures">
+      <runtime>
+         <run class="org.springsource.ide.eclipse.gradle.core.GradleNature">
+         </run>
+      </runtime>
+      <requires-nature
+            id="org.eclipse.jdt.core.javanature">
+      </requires-nature>
+   </extension>
+
+  <extension point="org.eclipse.debug.core.launchConfigurationTypes">
+    <launchConfigurationType
+        name="Gradle (STS) Build"
+        delegate="org.springsource.ide.eclipse.gradle.core.launch.GradleLaunchConfigurationDelegate"
+        category="org.eclipse.ui.externaltools"
+        modes="run"               
+        id="org.springsource.ide.eclipse.gradle.launch">
+    </launchConfigurationType>
+  </extension>  
+  <extension id="classpathcontainer" point="org.eclipse.core.resources.markers">
+     <super type="org.eclipse.core.resources.problemmarker"/>
+     <persistent value="true"/>
+  </extension>
+
+  
+
+</plugin>

@@ -1,0 +1,91 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: vFAF9WrsuGddzjKZnPEarLnDDj6TJ
+ 40HSXOxU3qNWLc=
+SHA-256-Digest-Manifest: +JXHcvYU+tuZEFMJwv/216CjE1ZRqIWT2CcewtWjqx8=
+Created-By: 1.7.0_80 (Oracle Corporation)
+
+Name: lib/kryo-2.20.jar
+SHA-256-Digest: WWTQYf+mFQrq7PKvwTvqfJ9A10ChFT03HxT7nNxJuYc=
+
+Name: lib/gradle-tooling-api-2.2.1.jar
+SHA-256-Digest: eEZFW3jtvP1VpDq82rm27PJLpR3GzwhBuDcns29/yFg=
+
+Name: toolingCustomModel/init.gradle
+SHA-256-Digest: 5FR60ipGegEZqbAC+PSr/MbOiULRfBalTut+w4vdWnY=
+
+Name: lib/gradle-core-2.2.1.jar
+SHA-256-Digest: Hlr9Shy4PqNo+DCJyTLfTrZhiK9VvYDqhbf1M/pmfC8=
+
+Name: lib/commons-collections-3.2.1.jar
+SHA-256-Digest: uIWBnKMf4Hw0j1wyrXjJ34gKfD7CfzXwTGcJM4fm1VE=
+
+Name: lib/gradle-core-2.2.1-sources.jar
+SHA-256-Digest: UlKCgEZQ8lTbkYPLa53mBHBktRvDHTeU7tXw2xf458M=
+
+Name: lib/model-1.0.jar
+SHA-256-Digest: x+qZxixcgOGx3A9Z3955o2/MlLcaz5qR2ARbElNVcqo=
+
+Name: org/springsource/ide/eclipse/gradle/toolingapi/GradleToolingApi.
+ class
+SHA-256-Digest: 9sH8oQiJba2s0K0lPmoyBQrsf5YIYwQ+C+qdCCn5B5Q=
+
+Name: lib/gradle-messaging-2.2.1.jar
+SHA-256-Digest: d/OUs6dkyBEwCN6shTjbKg3FoHD2IiwAFr7djagdKgg=
+
+Name: lib/gradle-resources-2.2.1.jar
+SHA-256-Digest: nIH5oX3QpLejXyq5+x4A8Tmm3hn5/lehKqFhpe/ZTVs=
+
+Name: lib/objenesis-1.2.jar
+SHA-256-Digest: TvYxAcUGopxlvsTn6DmOW2b/+Mps43XLm23kimNTHS8=
+
+Name: lib/gradle-base-services-groovy-2.2.1.jar
+SHA-256-Digest: Dz37rIPWUMiJ5iIGuQxeYggcrgJC+3RnkabxiFnviUw=
+
+Name: about.html
+SHA-256-Digest: R+LHcZDSOvLvo1Gnz5Bw8KB0asnq8C6PBiStIQQyiok=
+
+Name: lib/guava-jdk5-17.0.jar
+SHA-256-Digest: s+r1y5KMZs4ZV3BYtrBSoW8K3ZSrOm4+hRk+hUiWZhY=
+
+Name: lib/gradle-base-services-2.2.1.jar
+SHA-256-Digest: wQMFbH21ELcZdijvTK+pF1lvWnh7vmUhKcbDH/YPAAg=
+
+Name: lib/gradle-wrapper-2.2.1-sources.jar
+SHA-256-Digest: OBRUavKe1VUpm2P9V8oV3JJDRMD8p6ieslqd+YhO4dU=
+
+Name: lib/reflectasm-1.07-shaded.jar
+SHA-256-Digest: pvixFim0OGhx1ByrP1lk143FBR9EKIKjX8fhUBtd6IU=
+
+Name: lib/gradle-tooling-api-2.2.1-sources.jar
+SHA-256-Digest: ZKmXjQL+k4UiaA59sN1d2LxF0P/oXn+D8XuWpWJAl5g=
+
+Name: lib/plugin-1.0.jar
+SHA-256-Digest: A4iGpsnN9Fj4dmU5h4WVfVaTAWSjKMs4mf9KHbSW0vY=
+
+Name: lib/asm-4.0.jar
+SHA-256-Digest: LWz/DlgOypQrEstBH25bLuUkEdCgYMXTULI1F7pk1r8=
+
+Name: lib/commons-collections-3.2.1-sources.jar
+SHA-256-Digest: 4YDrlzKKpOrjf0pbEoU3SQxXwHlbdh39Oii5+s2MJSk=
+
+Name: lib/slf4j-api-1.7.7.jar
+SHA-256-Digest: gGTgc2TYFL2aWzgewtlHLzDibrbgfh0EWVy2dJAMbQE=
+
+Name: lib/slf4j-simple-1.7.7-sources.jar
+SHA-256-Digest: u+tWrI7zm0O3++uKHkB6qwJOU7ciwuns/XqoEXIXbnw=
+
+Name: lib/gradle-wrapper-2.2.1.jar
+SHA-256-Digest: Oc9PQCBPUwZ24lC9qP7UzaCPRgG8VE3iKKWRRR2tThQ=
+
+Name: lib/slf4j-simple-1.7.7.jar
+SHA-256-Digest: iRedxSNcRETPdMbOHytpcmmPIARzapeaBJKbWdWRy4g=
+
+Name: lib/minlog-1.2.jar
+SHA-256-Digest: IA3SlP4fRBuQKt9psaKmHnMWoXfh90SGzQHd9iX+1E4=
+
+Name: embedded-libs.properties
+SHA-256-Digest: +QBQa5dKBNAtE0TrDYftSh9dtzE8oH5omaPMVQqdvE0=
+
+Name: lib/README.txt
+SHA-256-Digest: VR0U2fTChEpZ6OLUp3umnU5lSwe8JRGhEbMfjyUNMc4=
+

@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Build-Jdk: 1.7.0_80
+Built-By: bamboo
+Created-By: Apache Maven
+Source-Control-Identifier: f4c188d330a481a1e342393981d4fe4abe85ea6a
+Archiver-Version: Plexus Archiver
+
+Name: feature.xml
+SHA-256-Digest: 0T1nALtmGtN75dqM0HNlF1UkT7RjqmuKytfIdCNlrhg=
+
+Name: license.txt
+SHA-256-Digest: tsa7ASj6FMotceUWUoUE4CI7/fsrPeaeR6FbaHLDzYk=
+
+Name: feature.properties
+SHA-256-Digest: MXNACtLlNTujghE4gsXKz/Een9TASWQf0S10cNe09P8=
+
+Name: open_source_licenses.txt
+SHA-256-Digest: QmoXMhpl1hxoajyjvF0int/3RrNqbuHTGAZBNFK1Xgs=
+

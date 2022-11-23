@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.nodeclipse.enide.studio.included.feature"
+      label="Features included in Enide Studio .Features Set"
+      version="1.0.2.201509250223"
+      provider-name="Nodeclipse/Enide">
+
+   <description url="http://www.nodeclipse.org/">
+      Features included in Enide Studio
+See https://github.com/nodeclipse/nodeclipse-1/
+       
+      (nodejs jjs mongodb phantomjs vertx maven gradle
+      pluginslist markdown gfm startexplorer restclient)
+   </description>
+
+   <copyright url="http://www.nodeclipse.org/">
+      Copyright (c) 2012 - 2015 The Nodeclipse Authors. All rights reserved.
+   </copyright>
+
+   <license url="http://www.apache.org/licenses/LICENSE-2.0">
+      Copyright (c) 2012 - 2015 The Nodeclipse Authors. All rights reserved.
+   
+   </license>
+
+   <url>
+      <update label="Nodeclipse Updates" url="http://www.nodeclipse/updates/"/>
+      <discovery label="Nodeclipse Updates" url="http://www.nodeclipse.org/updates"/>
+   </url>
+
+   <requires>
+      <import feature="org.nodeclipse.enide.nodejs.feature" version="0.16.0" match="greaterOrEqual"/>
+      <import feature="org.nodeclipse.phantomjs.feature" version="0.16.0" match="greaterOrEqual"/>
+      <import feature="org.nodeclipse.jjs.feature" version="0.16.0" match="greaterOrEqual"/>
+      <import feature="org.nodeclipse.mongodb.feature" version="0.16.0" match="greaterOrEqual"/>
+      <import feature="org.nodeclipse.vertx.feature" version="0.16.0" match="greaterOrEqual"/>
+      
+      <!--
+      <import feature="org.nodeclipse.enide.editors.gradle.feature" version="0.16.0" match="greaterOrEqual"/>
+      <import feature="org.nodeclipse.enide.gradle.feature" version="0.16.0" match="greaterOrEqual"/>
+      <import feature="org.nodeclipse.enide.maven.feature" version="0.16.0" match="greaterOrEqual"/>
+      -->
+      
+      <!--  pluginslist markdown gfm startexplorer restclient ansicon
+      <import feature="org.nodeclipse.pluginslist.feature" version="0.1.0" match="greaterOrEqual"/>
+      <import feature="markdown.editor.feature" version="1.1.0" match="greaterOrEqual"/>
+      <import feature="code.satyagraha.gfm.viewer.feature" version="1.8.3" match="greaterOrEqual"/>
+      <import feature="de.bastiankrol.startexplorer.feature" version="1.5.1" match="greaterOrEqual"/>
+      <import feature="code.google.restclient.tool.feature" version="1.0.3" match="greaterOrEqual"/>
+      <import feature="net.mihai-nita.ansicon" version="0.0.0" match="greaterOrEqual"/>
+      -->
+
+      <!--  ansi terminals
+        TCF Terminal (Console) View	1.2.0.201406042322	org.eclipse.tcf.te.terminals.feature.feature.group	Eclipse.org - Target Explorer
+      <import feature="org.eclipse.tcf.te.terminals.feature" version="0.0.0" match="greaterOrEqual"/>
+      -->
+      
+   </requires>
+
+</feature>

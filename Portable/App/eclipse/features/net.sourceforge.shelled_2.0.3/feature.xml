@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="net.sourceforge.shelled"
+      label="ShellEd"
+      version="2.0.3">
+
+   <description url="https://sourceforge.net/apps/trac/shelled/">
+      Shell Script Editor for Eclipse
+   </description>
+
+   <license url="http://www.eclipse.org/legal/epl-v10.html">
+      Eclipse Public License
+   </license>
+
+   <url>
+      <discovery label="Linux Tools" url="http://download.eclipse.org/linuxtools/update"/>
+   </url>
+
+   <plugin
+         id="net.sourceforge.shelled.core"
+         download-size="14"
+         install-size="23"
+         version="2.0.0.201307080909"
+         unpack="false"/>
+
+   <plugin
+         id="net.sourceforge.shelled.ui"
+         download-size="75"
+         install-size="134"
+         version="2.0.0.201307080909"
+         unpack="false"/>
+
+   <plugin
+         id="net.sourceforge.shelled.doc"
+         download-size="373"
+         install-size="391"
+         version="2.0.0.201307080909"
+         unpack="false"/>
+   <plugin
+         id="org.eclipse.linuxtools.man.core"
+         download-size="23"
+         install-size="33"
+         version="1.1.0.201306111610"
+         unpack="false"/>
+
+</feature>

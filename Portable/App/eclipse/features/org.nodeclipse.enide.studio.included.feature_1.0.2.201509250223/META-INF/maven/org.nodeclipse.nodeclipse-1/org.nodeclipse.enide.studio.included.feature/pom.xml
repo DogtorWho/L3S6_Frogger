@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
+	xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>org.nodeclipse.nodeclipse-1</groupId>
+		<artifactId>parent</artifactId>
+		<version>1.0.2-SNAPSHOT</version>
+		<relativePath>../../pom.xml</relativePath>
+	</parent>
+
+	<artifactId>org.nodeclipse.enide.studio.included.feature</artifactId>
+	<packaging>eclipse-feature</packaging>
+
+	<name>org.nodeclipse.enide.studio.included.feature</name>
+	<description>Features included in Enide Studio</description>
+	
+	<repositories>
+		<!-- SECTION not in Nodeclipse-1 p2 repo -->
+		<!-- TCF Terminal 
+		<repository>
+			<id>TCF-Terminal</id>
+			<layout>p2</layout>
+			<url>http://download.eclipse.org/tools/tcf/terminals_luna</url>
+		</repository>
+		-->
+		
+		<!-- Use previous // Fail back if some repos are unavailable 
+		<repository>
+			<id>fail-back</id>
+			<layout>p2</layout>
+			<url>http://dl.bintray.com/nodeclipse/nodeclipse/0.17/</url>
+		</repository>
+		-->
+		
+		
+	
+		<!-- SECTION copy/paste from org.nodeclipse.site\pom.xml -->
+	</repositories>
+	
+</project>
+

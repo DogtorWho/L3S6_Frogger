@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1549382590446" transient="false" version="3.0">
+	<site updateable="true" url="platform:/base/" enabled="true" policy="USER-EXCLUDE">
+		<feature id="org.chromium.debug" version="0.3.9.201509250223" url="features/org.chromium.debug_0.3.9.201509250223/">
+		</feature>
+		<feature id="markdown.editor.feature" version="1.2.0.201501260515" url="features/markdown.editor.feature_1.2.0.201501260515/">
+		</feature>
+		<feature id="net.vtst.ow.eclipse.less.feature" version="1.0.19" url="features/net.vtst.ow.eclipse.less.feature_1.0.19/">
+		</feature>
+		<feature id="com.xored.glance" version="1.1.1" url="features/com.xored.glance_1.1.1/">
+		</feature>
+		<feature id="code.google.restclient.tool.feature" version="1.0.3" url="features/code.google.restclient.tool.feature_1.0.3/">
+		</feature>
+		<feature id="net.jeeeyul.swtend.feature" version="2.2.5.I20140918-144458" url="features/net.jeeeyul.swtend.feature_2.2.5.I20140918-144458/">
+		</feature>
+		<feature id="org.nodeclipse.jjs.feature" version="1.0.2.201509250223" url="features/org.nodeclipse.jjs.feature_1.0.2.201509250223/">
+		</feature>
+		<feature id="org.eclipse.emf.common" version="2.15.0.v20180914-1817" url="features/org.eclipse.emf.common_2.15.0.v20180914-1817/">
+		</feature>
+		<feature id="net.jeeeyul.eclipse.themes.feature" version="2.2.0.I20141210-114528" url="features/net.jeeeyul.eclipse.themes.feature_2.2.0.I20141210-114528/">
+		</feature>
+		<feature id="net.jeeeyul.pdetools.feature" version="1.2.6.I20150812-105126" url="features/net.jeeeyul.pdetools.feature_1.2.6.I20150812-105126/">
+		</feature>
+		<feature id="SelectionExplorerFeature" version="1.0.2" url="features/SelectionExplorerFeature_1.0.2/">
+		</feature>
+		<feature id="zipeditor" version="1.1.2.201409260755" url="features/zipeditor_1.1.2.201409260755/">
+		</feature>
+		<feature id="org.nodeclipse.enide.nodejs.feature" version="1.0.2.201509250223" url="features/org.nodeclipse.enide.nodejs.feature_1.0.2.201509250223/">
+		</feature>
+		<feature id="de.jcup.egradle.eclipse.feature" version="2.5.0" url="features/de.jcup.egradle.eclipse.feature_2.5.0/" plugin-identifier="de.jcup.egradle.eclipse.plugin.branding">
+		</feature>
+		<feature id="org.nodeclipse.bundle.coffee.feature" version="1.6.3" url="features/org.nodeclipse.bundle.coffee.feature_1.6.3/">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.core.feature" version="1.6.0.v20181123-1405" url="features/org.eclipse.equinox.p2.core.feature_1.6.0.v20181123-1405/">
+		</feature>
+		<feature id="com.github.eclipseuitheme.themes.feature" version="0.8.9.201404052318" url="features/com.github.eclipseuitheme.themes.feature_0.8.9.201404052318/">
+		</feature>
+		<feature id="org.chromium.sdk" version="0.3.9.201509250223" url="features/org.chromium.sdk_0.3.9.201509250223/">
+		</feature>
+		<feature id="org.eclipse.ecf.core.feature" version="1.5.3.v20181012-2020" url="features/org.eclipse.ecf.core.feature_1.5.3.v20181012-2020/">
+		</feature>
+		<feature id="org.nodeclipse.pluginslist.feature" version="1.0.2.201509250223" url="features/org.nodeclipse.pluginslist.feature_1.0.2.201509250223/">
+		</feature>
+		<feature id="org.dadacoalition.yedit" version="0.0.13" url="features/org.dadacoalition.yedit_0.0.13/">
+		</feature>
+		<feature id="org.nodeclipse" version="1.0.2.201509250223" url="features/org.nodeclipse_1.0.2.201509250223/">
+		</feature>
+		<feature id="org.eclipse.ecf.core.ssl.feature" version="1.1.100.v20180301-0201" url="features/org.eclipse.ecf.core.ssl.feature_1.1.100.v20180301-0201/">
+		</feature>
+		<feature id="net.sourceforge.shelled" version="2.0.3" url="features/net.sourceforge.shelled_2.0.3/">
+		</feature>
+		<feature id="de.jcup.egradle.eclipse.feature.junit" version="2.5.0" url="features/de.jcup.egradle.eclipse.feature.junit_2.5.0/" plugin-identifier="de.jcup.egradle.eclipse.plugin.branding">
+		</feature>
+		<feature id="org.eclipse.ecf.filetransfer.httpclient4.ssl.feature" version="1.1.100.v20180301-0132" url="features/org.eclipse.ecf.filetransfer.httpclient4.ssl.feature_1.1.100.v20180301-0132/">
+		</feature>
+		<feature id="org.eclipse_icons.editor.feature" version="2.4.1.201311032200" url="features/org.eclipse_icons.editor.feature_2.4.1.201311032200/" plugin-identifier="org.eclipse_icons.editor">
+		</feature>
+		<feature id="code.satyagraha.gfm.viewer.feature" version="1.9.3" url="features/code.satyagraha.gfm.viewer.feature_1.9.3/">
+		</feature>
+		<feature id="org.eclipse.buildship" version="3.0.2.v20181217-2324-s" url="features/org.eclipse.buildship_3.0.2.v20181217-2324-s/" plugin-identifier="org.eclipse.buildship.branding">
+		</feature>
+		<feature id="EclipseRunnerFeature" version="1.3.0" url="features/EclipseRunnerFeature_1.3.0/">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.rcp.feature" version="1.4.200.v20181123-1405" url="features/org.eclipse.equinox.p2.rcp.feature_1.4.200.v20181123-1405/">
+		</feature>
+		<feature id="org.nodeclipse.enide.maven.feature" version="1.0.2.201509250223" url="features/org.nodeclipse.enide.maven.feature_1.0.2.201509250223/">
+		</feature>
+		<feature id="org.eclipse.ecf.filetransfer.httpclient4.feature" version="3.14.4.v20181013-2146" url="features/org.eclipse.ecf.filetransfer.httpclient4.feature_3.14.4.v20181013-2146/">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.user.ui" version="2.4.200.v20181123-1405" url="features/org.eclipse.equinox.p2.user.ui_2.4.200.v20181123-1405/">
+		</feature>
+		<feature id="de.jcup.egradle.eclipse.feature.core" version="2.5.0" url="features/de.jcup.egradle.eclipse.feature.core_2.5.0/" plugin-identifier="de.jcup.egradle.eclipse.plugin.branding">
+		</feature>
+		<feature id="org.nodeclipse.mongodb.feature" version="1.0.2.201509250223" url="features/org.nodeclipse.mongodb.feature_1.0.2.201509250223/">
+		</feature>
+		<feature id="org.nodeclipse.enide.studio.included.feature" version="1.0.2.201509250223" url="features/org.nodeclipse.enide.studio.included.feature_1.0.2.201509250223/">
+		</feature>
+		<feature id="de.jcup.egradle.eclipse.feature.editor" version="2.5.0" url="features/de.jcup.egradle.eclipse.feature.editor_2.5.0/" plugin-identifier="de.jcup.egradle.eclipse.plugin.branding">
+		</feature>
+		<feature id="org.sweetlemonade.eclipse.json.feature" version="1.0.3" url="features/org.sweetlemonade.eclipse.json.feature_1.0.3/">
+		</feature>
+		<feature id="org.eclipse.platform" version="4.10.0.v20181206-0815" url="features/org.eclipse.platform_4.10.0.v20181206-0815/">
+		</feature>
+		<feature id="pm.eclipse.editbox.feature" version="0.70.0.201508180438" url="features/pm.eclipse.editbox.feature_0.70.0.201508180438/">
+		</feature>
+		<feature id="org.eclipse.help" version="2.2.400.v20181206-0815" url="features/org.eclipse.help_2.2.400.v20181206-0815/" plugin-identifier="org.eclipse.help.base">
+		</feature>
+		<feature id="jdt.spelling.feature" version="1.0.0.v20141130-2055" url="features/jdt.spelling.feature_1.0.0.v20141130-2055/">
+		</feature>
+		<feature id="org.nodeclipse.bundle.express.feature" version="3.2.5" url="features/org.nodeclipse.bundle.express.feature_3.2.5/">
+		</feature>
+		<feature id="net.mihai-nita.ansicon" version="1.3.1.201508091828" url="features/net.mihai-nita.ansicon_1.3.1.201508091828/">
+		</feature>
+		<feature id="org.nodeclipse.vertx.feature" version="1.0.2.201509250223" url="features/org.nodeclipse.vertx.feature_1.0.2.201509250223/">
+		</feature>
+		<feature id="de.bastiankrol.startexplorer.feature" version="1.7.0" url="features/de.bastiankrol.startexplorer.feature_1.7.0/">
+		</feature>
+		<feature id="org.nodeclipse.phantomjs.feature" version="1.0.2.201509250223" url="features/org.nodeclipse.phantomjs.feature_1.0.2.201509250223/">
+		</feature>
+		<feature id="org.eclipse.emf.ecore" version="2.16.0.v20181124-0637" url="features/org.eclipse.emf.ecore_2.16.0.v20181124-0637/">
+		</feature>
+		<feature id="com.github.eclipsecolortheme.feature" version="1.0.0.201410260308" url="features/com.github.eclipsecolortheme.feature_1.0.0.201410260308/">
+		</feature>
+		<feature id="org.eclipse.rcp" version="4.10.0.v20181206-0815" url="features/org.eclipse.rcp_4.10.0.v20181206-0815/">
+		</feature>
+		<feature id="org.eclipse.ecf.filetransfer.ssl.feature" version="1.1.100.v20180301-0132" url="features/org.eclipse.ecf.filetransfer.ssl.feature_1.1.100.v20180301-0132/">
+		</feature>
+		<feature id="org.nodeclipse.enide.editors.gradle.feature" version="1.0.2.201509250223" url="features/org.nodeclipse.enide.editors.gradle.feature_1.0.2.201509250223/">
+		</feature>
+		<feature id="net.jumperz.app.MMonjaDB" version="1.0.16" url="features/net.jumperz.app.MMonjaDB_1.0.16/">
+		</feature>
+		<feature id="org.springsource.ide.eclipse.gradle.feature" version="3.9.4.201805142235-RELEASE" url="features/org.springsource.ide.eclipse.gradle.feature_3.9.4.201805142235-RELEASE/">
+		</feature>
+		<feature id="org.eclipse.e4.rcp" version="1.6.300.v20181204-1801" url="features/org.eclipse.e4.rcp_1.6.300.v20181204-1801/">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.extras.feature" version="1.4.200.v20181123-1405" url="features/org.eclipse.equinox.p2.extras.feature_1.4.200.v20181123-1405/">
+		</feature>
+		<feature id="PracticallyMacroFeature" version="0.4.2" url="features/PracticallyMacroFeature_0.4.2/">
+		</feature>
+		<feature id="jsonedit-feature" version="0.9.7" url="features/jsonedit-feature_0.9.7/" plugin-identifier="jsonedit-core">
+		</feature>
+		<feature id="io.emmet.eclipse" version="1.0.0.201401132323" url="features/io.emmet.eclipse_1.0.0.201401132323/">
+		</feature>
+		<feature id="org.nodeclipse.enide.gradle.feature" version="1.0.2.201509250223" url="features/org.nodeclipse.enide.gradle.feature_1.0.2.201509250223/">
+		</feature>
+		<feature id="OpenClosedProjectsFeature" version="1.0.5" url="features/OpenClosedProjectsFeature_1.0.5/">
+		</feature>
+		<feature id="com.eclipsesource.jshint.feature" version="0.9.10.20141011-1730" url="features/com.eclipsesource.jshint.feature_0.9.10.20141011-1730/">
+		</feature>
+		<feature id="gitaddon.feature" version="1.0.0.20140303-0606" url="features/gitaddon.feature_1.0.0.20140303-0606/">
+		</feature>
+		<feature id="org.nodeclipse.enide.editors.jade.feature" version="1.0.2.201509250223" url="features/org.nodeclipse.enide.editors.jade.feature_1.0.2.201509250223/">
+		</feature>
+		<feature id="org.eclipse.ecf.filetransfer.feature" version="3.14.4.v20181013-2146" url="features/org.eclipse.ecf.filetransfer.feature_3.14.4.v20181013-2146/">
+		</feature>
+	</site>
+</config>

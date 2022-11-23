@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="PracticallyMacroFeature"
+      label="PracticallyMacroFeature Feature"
+      version="0.4.2">
+
+   <description url="https://sourceforge.net/projects/practicalmacro/">
+      This is an Eclipse editor macro tool for Eclipse 3.4 or later.  This is a bit of a hack, but I&apos;ve attempted to play in the Eclipse command structure.  Create/Export/Save/Play commands.
+   </description>
+
+   <copyright url="https://sourceforge.net/projects/practicalmacro/">
+      Copyright Ernest Pasour 2009-2011
+   </copyright>
+
+   <license url="https://sourceforge.net/projects/practicalmacro/">
+      Eclipse Public License
+   </license>
+
+   <plugin
+         id="PracticallyMacro"
+         download-size="0"
+         install-size="0"
+         version="0.4.2"
+         unpack="false"/>
+
+   <plugin
+         id="Practicallymacro.BeanShellSupport"
+         download-size="0"
+         install-size="0"
+         version="0.1.6"
+         unpack="false"/>
+
+</feature>

@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Require-Bundle: org.eclipse.ui,org.eclipse.core.runtime,org.eclipse.dr
+ aw2d,org.eclipse.core.resources,org.eclipse.ui.ide,org.eclipse.core.e
+ xpressions,org.eclipse.ui.views.properties.tabbed
+Bundle-Vendor: Jabier Martinez
+Bundle-ActivationPolicy: lazy
+Bundle-Version: 2.4.1.201311032200
+Bundle-Name: Icons Editor
+Bundle-Activator: org.eclipse_icons.editor.Activator
+Bundle-ManifestVersion: 2
+Import-Package: org.eclipse.core.filesystem,org.eclipse.ui.dialogs,org
+ .eclipse.ui.ide,org.eclipse.ui.part
+Bundle-SymbolicName: org.eclipse_icons.editor; singleton:=true
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+
+

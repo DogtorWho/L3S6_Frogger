@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<World>
+	<Element id="Life">
+		<Number>5</Number>
+	</Element>
+
+	<Element id="Timer">
+		<FlyTimer>3</FlyTimer>
+	</Element>
+	
+	<Element id="SpeedPercent">
+		<Percent>25</Percent>
+	</Element>
+	
+	<Element id="Frogger">
+		<PosX>0</PosX>
+		<PosY>7</PosY>
+    
+		<Rotation>180</Rotation>
+		<Cooldown>0.25</Cooldown>
+	</Element>
+	
+	<Element id="Tongue">
+		<AirTime>200</AirTime>
+		<Shot>4</Shot>
+		<Speed>100</Speed>
+		<Cooldown>1</Cooldown>
+	</Element>
+	
+	<Element id="Fly">
+		<Rotation>0</Rotation>
+	</Element>
+	
+	<Element id="FliesLinear">
+		<Speed>0.1</Speed>
+		<IntervalMin>2</IntervalMin>
+		<IntervalMax>15</IntervalMax>
+	</Element>
+	
+	<Element id="LargeLog">
+		<Position>0</Position>
+	</Element>
+	
+	<Element id="SmallLog">
+		<Position>1</Position>
+	</Element>
+	
+	<Element id="Turtle">
+		<Position>2</Position>
+	</Element>
+	
+	<Element id="LargeLog">
+		<Position>3</Position>
+	</Element>
+	
+	<Element id="MediumLog">
+		<Position>4</Position>
+	</Element>
+	
+	<Element id="GreenCar">
+		<Position>0</Position>
+		<PosX>300</PosX>
+	</Element>
+	
+	<Element id="BlueCar">
+		<Position>1</Position>
+	</Element>
+	
+	<Element id="YellowCar">
+		<Position>2</Position>
+	</Element>
+	
+	<Element id="BrownTruck">
+		<Position>3</Position>
+		<PosX>300</PosX>
+	</Element>
+	
+	<Element id="RedTruck">
+		<Position>4</Position>
+	</Element>
+    
+	<Element id="FlyPositions">	
+		<Slots>
+			<Slot>
+				<PosX>0</PosX>
+				<PosY>600</PosY>
+			</Slot>
+			<Slot>
+				<PosX>150</PosX>
+				<PosY>600</PosY>
+			</Slot>
+			<Slot>
+				<PosX>300</PosX>
+				<PosY>600</PosY>
+			</Slot>
+			<Slot>
+				<PosX>400</PosX>
+				<PosY>600</PosY>
+			</Slot>
+			<Slot>
+				<PosX>550</PosX>
+				<PosY>600</PosY>
+			</Slot>
+    	</Slots>
+	</Element>
+    
+	<Element id="RiverPositions">
+		<Slots>
+			<Slot>
+				<PosX>0</PosX>
+				<PosY>550</PosY>
+				<Number>0</Number>
+				<Rotation>0</Rotation>
+				<Speed>30</Speed>
+				<IntervalMin>100</IntervalMin>
+				<IntervalMax>250</IntervalMax>
+			</Slot>
+			<Slot>
+				<PosX>600</PosX>
+				<PosY>500</PosY>
+				<Number>1</Number>
+				<Rotation>180</Rotation>
+				<Speed>-30</Speed>
+				<IntervalMin>100</IntervalMin>
+				<IntervalMax>250</IntervalMax>
+			</Slot>
+			<Slot>
+				<PosX>0</PosX>
+				<PosY>450</PosY>
+				<Number>2</Number>
+				<Rotation>0</Rotation>
+				<Speed>30</Speed>
+				<IntervalMin>100</IntervalMin>
+				<IntervalMax>250</IntervalMax>
+			</Slot>
+			<Slot>
+				<PosX>600</PosX>
+				<PosY>400</PosY>
+				<Number>3</Number>
+				<Rotation>180</Rotation>
+				<Speed>-30</Speed>
+				<IntervalMin>100</IntervalMin>
+				<IntervalMax>250</IntervalMax>
+			</Slot>
+			<Slot>
+				<PosX>0</PosX>
+				<PosY>350</PosY>
+				<Number>4</Number>
+				<Rotation>0</Rotation>
+				<Speed>30</Speed>
+				<IntervalMin>100</IntervalMin>
+				<IntervalMax>250</IntervalMax>
+			</Slot>
+		</Slots>
+	</Element>
+    
+	<Element id="RoadPositions">
+		<Slots>
+			<Slot>
+				<PosX>0</PosX>
+				<PosY>250</PosY>
+				<Number>0</Number>
+				<Rotation>0</Rotation>
+				<Speed>30</Speed>
+				<IntervalMin>100</IntervalMin>
+				<IntervalMax>250</IntervalMax>
+			</Slot>
+			<Slot>
+				<PosX>600</PosX>
+				<PosY>200</PosY>
+				<Number>1</Number>
+				<Rotation>180</Rotation>
+				<Speed>-30</Speed>
+				<IntervalMin>100</IntervalMin>
+				<IntervalMax>250</IntervalMax>
+			</Slot>
+			<Slot>
+				<PosX>0</PosX>
+				<PosY>150</PosY>
+				<Number>2</Number>
+				<Rotation>0</Rotation>
+				<Speed>30</Speed>
+				<IntervalMin>100</IntervalMin>
+				<IntervalMax>250</IntervalMax>
+			</Slot>
+			<Slot>
+				<PosX>600</PosX>
+				<PosY>100</PosY>
+				<Number>3</Number>
+				<Rotation>180</Rotation>
+				<Speed>-30</Speed>
+				<IntervalMin>100</IntervalMin>
+				<IntervalMax>250</IntervalMax>
+			</Slot>
+			<Slot>
+				<PosX>0</PosX>
+				<PosY>50</PosY>
+				<Number>4</Number>
+				<Rotation>0</Rotation>
+				<Speed>30</Speed>
+				<IntervalMin>100</IntervalMin>
+				<IntervalMax>250</IntervalMax>
+			</Slot>
+		</Slots>
+	</Element>
+</World>

@@ -1,0 +1,37 @@
+initscript {
+	def getProp = { name ->
+		def val = System.getProperty(name);
+		if (val==null) {
+			throw new Error("System property must be set: '${name}'")
+		}
+		return val;
+	}
+	
+	repositories {
+		flatDir {
+			dir getProp('org.springsource.ide.eclipse.gradle.toolingApiRepo')
+		}
+	}
+
+	dependencies {
+		classpath ':plugin:1.0'
+        classpath ':model:1.0'
+	}
+}
+
+allprojects {
+	
+	def getProp = { name ->
+		def val = System.getProperty(name);
+		if (val==null) {
+			throw new Error("System property must be set: '${name}'")
+		}
+		return val;
+	}
+
+   apply plugin: io.pivotal.tooling.plugin.eclipse.EclipseToolingModelPlugin
+   
+   eclipseToolingModel {
+	   equivalentBinaryVersion = getProp('org.springsource.ide.eclipse.gradle.toolingApiEquivalentBinaryVersion')
+   }
+}

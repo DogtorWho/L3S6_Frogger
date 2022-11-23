@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse_icons.editor.feature"
+      label="Icons Editor Feature"
+      version="2.4.1.201311032200"
+      provider-name="Jabier Martinez"
+      plugin="org.eclipse_icons.editor">
+
+   <description url="http://code.google.com/a/eclipselabs.org/p/eclipse-icons-editor/">
+      Eclipse Icons Editor
+   </description>
+
+   <copyright url="http://code.google.com/a/eclipselabs.org/p/eclipse-icons-editor/">
+      Copyright
+   </copyright>
+
+   <license url="http://code.google.com/a/eclipselabs.org/p/eclipse-icons-editor/">
+      License
+   </license>
+
+   <plugin
+         id="org.eclipse_icons.editor"
+         download-size="0"
+         install-size="0"
+         version="2.4.1.201311032200"/>
+
+</feature>
